@@ -31,3 +31,4 @@ C:\Users\User\source\repos\git_test_ostad\obj\Debug\net8.0\refint\git_test_ostad
 C:\Users\User\source\repos\git_test_ostad\obj\Debug\net8.0\git_test_ostad.pdb
 C:\Users\User\source\repos\git_test_ostad\obj\Debug\net8.0\git_test_ostad.genruntimeconfig.cache
 C:\Users\User\source\repos\git_test_ostad\obj\Debug\net8.0\ref\git_test_ostad.dll
+C:\Users\User\source\repos\git_test_ostad\obj\Debug\net8.0\git_test_ostad.sourcelink.json
